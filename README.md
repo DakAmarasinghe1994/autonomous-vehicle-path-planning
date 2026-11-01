@@ -119,3 +119,16 @@ robot-navigation system.
 
 [GitHub Portfolio](https://github.com/DakAmarasinghe1994) |
 [LinkedIn](https://www.linkedin.com/in/dak-amarasinghe-946aa71b1/)
+
+## Source Code
+
+The MATLAB scripts and supporting files are available in the
+[src folder](./src).
+
+Preserve the folder structure when downloading the code, and
+retain the original attribution included with the A* demonstration.
+
+## Setup and Execution
+
+See the [setup and execution instructions](./instructions/Instruction.txt)
+for running the MATLAB simulations.
