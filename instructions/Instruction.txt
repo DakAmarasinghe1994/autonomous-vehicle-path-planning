@@ -1,0 +1,3 @@
+For RRT, Run "RRT_Algorithm_Code1_Amarasinghe" file in MATLAB
+
+For A*, Run "Astar_Algorithm_Code_Amarasinghe" file in MATLAB
