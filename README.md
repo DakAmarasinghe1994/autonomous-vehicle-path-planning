@@ -1,4 +1,5 @@
 # Path Planning Algorithms for an Autonomous Vehicle
+![Autonomous vehicle path-planning simulation](./images/path-planning.png)
 
 MATLAB simulations exploring RRT and A* path planning,
 static and dynamic obstacles, and probabilistic route selection.
@@ -65,6 +66,28 @@ and source files.
 MATLAB • Rapidly Exploring Random Trees (RRT) • A* Search •
 Occupancy Grids • Static and Dynamic Obstacles •
 Probabilistic Route Confidence • Simulation and Visualization
+
+## Simulation Screenshots
+
+### RRT Path Planning
+
+![RRT tree and planned route](./images/rrt-path-planning.png)
+
+Simulation showing the exploration tree, obstacles, and a selected route.
+
+### Truck-Route Scenario
+
+![Truck and candidate routes](./images/truck-route-planning.png)
+
+Example simulation state showing the truck and candidate routes
+during the route-confidence evaluation.
+
+### A* Maze Planning
+
+![A* maze-planning result](./images/astar-maze-planning.png)
+
+Grid-based planning example showing the start, goal, obstacles,
+and computed route.
 
 ## Project Documentation
 
